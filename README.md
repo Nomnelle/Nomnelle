@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Lea+Mick!;" />
 </h2>
 
-### A Cognitive Science Student passioned bby statistic and biologie!
+### A Cognitive Science Student passioned bby statistic and biology!
 
 - 🌱 I’m currently learning **[Botanic](https://mooc.tela-botanica.org/course/view.php?id=3)**
 - 💬 Ask me about **Python, Data Science...or anything [here](https://github.com/Nomnelle/Nomnelle/issues)**
@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <a href="lea.mick2@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?to=lea.mick2@gmail.com&fs=1&tf=cm">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/leamick/" target="_blank">
