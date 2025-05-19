@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Lea+Mick!;" />
 </h2>
 
-### A Cognitive Science Student passioned bby statistic and biology!
+### A cognitive science student passioned by statistics and biology!
 
 - 🌱 I’m currently learning **[Botanic](https://mooc.tela-botanica.org/course/view.php?id=3)**
 - 💬 Ask me about **Python, Data Science...or anything [here](https://github.com/Nomnelle/Nomnelle/issues)**
