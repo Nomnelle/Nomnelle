@@ -52,3 +52,6 @@
 
 <hr>
 
+## Fun part 🎉
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=raw886zjs2i65oxuvjuibkskw&width=900&count=3)
+
