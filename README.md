@@ -8,12 +8,12 @@
 <img src="https://github.com/Nomnelle/Nomnelle/blob/main/nomnelle.png" alt="Banner of a developer sitting in front of a desk in Sailor Moon artstyle">
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Lea+Mick!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=23945c&duration=4000&lines=I'm+Lea+Mick!;" />
 </h2>
 
 ### A cognitive science student passioned by statistics and biology!
 
-- 🌱 I’m currently learning **[Botanic](https://mooc.tela-botanica.org/course/view.php?id=3)**
+- 🌱 I’m currently learning **[Botanic](https://mooc.tela-botanica.org/course/view.php?id=636)**
 - 💬 Ask me about **Python, Data Science...or anything [here](https://github.com/Nomnelle/Nomnelle/issues)**
 
 <br>
